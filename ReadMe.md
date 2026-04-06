@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm currently working at HKU's Innovation Wing. <br>🩺Developing Computer Vision projects to make an impact in Healthcare.
+💻Currently working at HKU's Innovation Wing. <br>🩺Developing Computer Vision projects to make an impact in Healthcare.
 
 
 ## 🌐 Socials:
