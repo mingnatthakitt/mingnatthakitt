@@ -38,7 +38,7 @@ A tactical 1v1 strategy game engineered with a focus on advanced OOP principles 
 
 ### 4. [Developer Portfolio](https://github.com/mingnatthakitt/DevPortfolio) (3D Experience)
 A premium, interactive technical profile featuring a physics-based 3D environment and fluid motion systems.
-- **Impact**: Custom Three.js "TunnelDARK" implementation with interactive particle physics.
+- **Impact**: Custom Three.js "wormhole mesh" style hero page implementation with interactive particle physics.
 - **Stack**: React, Three.js, Framer Motion, Tailwind CSS.
 
 ---
