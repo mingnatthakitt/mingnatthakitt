@@ -1,14 +1,73 @@
-# 💫 About Me:
-💻Currently working at HKU's Innovation Wing. <br>🩺Developing Computer Vision projects to make an impact in Healthcare.
+# 🚀 Natthakitt Prapunwattana
+### HKU Computer Science | Aspiring AI & Medical Vision Engineer
 
+<div align="center">
+  <a href="https://mingnatthakitt.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="mailto:mingnatthakitt@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mingnatthakitt@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mingnatthakitt&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mingnatthakitt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mingnatthakitt&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧬 Biometric Profile
+I am a Computer Science student at **The University of Hong Kong (HKU)**, currently working at the **Innovation Wing**. My work focuses on bridging the gap between deep learning research and production-ready systems, with a particular emphasis on **Medical AI** and **Computer Vision**.
+
+- 🔭 **Current Focus**: Engineering AI-powered diagnostic tools for healthcare.
+- 🎓 **Education**: BEng in Computer Science @ HKU (Year 1).
+
+---
+
+## 🛠️ Featured Technical Nodes
+
+### 1. [TumorVision](https://github.com/mingnatthakitt/TumorVision) (Medical AI)
+An AI-powered brain tumor diagnostic platform utilizing an **EfficientNetV2** deep learning architecture.
+- **Impact**: Capable of recognizing 44 distinct tumor signatures with real-time probability analysis.
+- **Stack**: Python, FastAPI, TensorFlow, React, Docker.
+
+### 2. [The Thinking Times](https://github.com/mingnatthakitt/TheThinkingTimes) (AI Automation)
+An automated intelligence engine that leverages **Gemini 3 Flash** to synthesize critical developments in AI and Global News.
+- **Impact**: Delivers curated briefings via a specialized Discord bot and a modern web interface.
+- **Stack**: Python, Discord.py, Gemini API, RSS.
+
+### 3. [Sinking Ships @ Strait](https://github.com/mingnatthakitt/SinkingShips) (Game Systems)
+A tactical 1v1 strategy game engineered with a focus on advanced OOP principles and polymorphic class structures.
+- **Stack**: C++, OOP, Makefile.
+
+### 4. [Developer Portfolio](https://github.com/mingnatthakitt/DevPortfolio) (3D Experience)
+A premium, interactive technical profile featuring a physics-based 3D environment and fluid motion systems.
+- **Impact**: Custom Three.js "TunnelDARK" implementation with interactive particle physics.
+- **Stack**: React, Three.js, Framer Motion, Tailwind CSS.
+
+---
+
+## 💻 Tech Stack & Capability Matrix
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+### AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mingnatthakitt&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingnatthakitt&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
+</div>
+
+<p align="center">
+  <b>Developed  by Natthakitt Prapunwattana</b>
+</p>
