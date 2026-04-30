@@ -36,7 +36,7 @@ An automated intelligence engine that leverages **Gemini 3 Flash** to synthesize
 A tactical 1v1 strategy game engineered with a focus on advanced OOP principles and polymorphic class structures.
 - **Stack**: C++, OOP, Makefile.
 
-### 4. [Developer Portfolio](https://github.com/mingnatthakitt/DevPortfolio) (3D Experience)
+### 4. [Developer Portfolio](https://github.com/mingnatthakitt/Sinking-Ships-at-Strait) (3D Experience)
 A premium, interactive technical profile featuring a physics-based 3D environment and fluid motion systems.
 - **Impact**: Custom Three.js "wormhole mesh" style hero page implementation with interactive particle physics.
 - **Stack**: React, Three.js, Framer Motion, Tailwind CSS.
