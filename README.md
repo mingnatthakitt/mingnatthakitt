@@ -32,11 +32,11 @@ An automated intelligence engine that leverages **Gemini 3 Flash** to synthesize
 - **Impact**: Delivers curated briefings via a specialized Discord bot and a modern web interface.
 - **Stack**: Python, Discord.py, Gemini API, RSS.
 
-### 3. [Sinking Ships @ Strait](https://github.com/mingnatthakitt/SinkingShips) (Game Systems)
+### 3. [Sinking Ships @ Strait](https://github.com/mingnatthakitt/Sinking-Ships-at-Strait) (Game Systems)
 A tactical 1v1 strategy game engineered with a focus on advanced OOP principles and polymorphic class structures.
 - **Stack**: C++, OOP, Makefile.
 
-### 4. [Developer Portfolio](https://github.com/mingnatthakitt/Sinking-Ships-at-Strait) (3D Experience)
+### 4. [Developer Portfolio](https://github.com/mingnatthakitt/Developer-Portfolio) (3D Experience)
 A premium, interactive technical profile featuring a physics-based 3D environment and fluid motion systems.
 - **Impact**: Custom Three.js "wormhole mesh" style hero page implementation with interactive particle physics.
 - **Stack**: React, Three.js, Framer Motion, Tailwind CSS.
