@@ -12,7 +12,7 @@
 
 ---
 
-## 🧬 Biometric Profile
+## 🧬 Background
 I am a Computer Science student at **The University of Hong Kong (HKU)**, currently working at the **Innovation Wing**. My work focuses on bridging the gap between deep learning research and production-ready systems, with a particular emphasis on **Medical AI** and **Computer Vision**.
 
 - 🔭 **Current Focus**: Engineering AI-powered diagnostic tools for healthcare.
