@@ -27,7 +27,7 @@ An AI-powered brain tumor diagnostic platform utilizing an **EfficientNetV2** de
 - **Impact**: Capable of recognizing 44 distinct tumor signatures with real-time probability analysis.
 - **Stack**: Python, FastAPI, TensorFlow, React, Docker.
 
-### 2. [The Thinking Times](https://github.com/mingnatthakitt/TheThinkingTimes) (AI Automation)
+### 2. [The Thinking Times](https://github.com/mingnatthakitt/DailyNewsSummary) (AI Automation)
 An automated intelligence engine that leverages **Gemini 3 Flash** to synthesize critical developments in AI and Global News.
 - **Impact**: Delivers curated briefings via a specialized Discord bot and a modern web interface.
 - **Stack**: Python, Discord.py, Gemini API, RSS.
