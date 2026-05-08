@@ -2,7 +2,7 @@
 ### HKU Computer Science | Aspiring AI & Medical Vision Engineer
 
 <div align="center">
-  <a href="https://mingnatthakitt.vercel.app/#home">
+  <a href="https://mingnatthakitt.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
   <a href="mailto:mingnatthakitt@gmail.com">
