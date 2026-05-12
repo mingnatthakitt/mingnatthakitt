@@ -5,6 +5,7 @@
   <a href="https://mingnatthakitt.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Portfolio-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
   </a>
+  
   <a href="mailto:mingnatthakitt@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a> 
@@ -23,9 +24,9 @@ I am a Computer Science student at **The University of Hong Kong (HKU)**, curren
 ## 🛠️ Featured Technical Nodes
 
 ### 1. [TumorVision](https://github.com/mingnatthakitt/TumorVision) (Medical AI)
-An AI-powered brain tumor diagnostic platform utilizing an **EfficientNetV2** deep learning architecture.
-- **Impact**: Capable of recognizing 44 distinct tumor signatures with real-time probability analysis.
-- **Stack**: Python, FastAPI, TensorFlow, React, Docker.
+A dual-architecture diagnostic platform utilizing **EfficientNetV2-S** for granular analysis and **ConvNeXt-Tiny** for high-stability classification.
+- **Impact**: Capable of recognizing 44 distinct tumor signatures and 17 broad diagnostic groups with 98.0% accuracy, featuring a MedGemma 1.5 4B Vision-Language Model (VLM) for "Medical Peer-Review" and confirmed diagnosis.
+- **Stack**: Python, PyTorch, TensorFlow, FastAPI, React, Docker.
 
 ### 2. [The Thinking Times](https://github.com/mingnatthakitt/DailyNewsSummary) (AI Automation)
 An automated intelligence engine that leverages **Gemini 3 Flash** to synthesize critical developments in AI and Global News.
