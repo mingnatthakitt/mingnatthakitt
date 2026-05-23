@@ -28,16 +28,21 @@ A dual-architecture diagnostic platform utilizing **EfficientNetV2-S** for granu
 - **Impact**: Capable of recognizing 44 distinct tumor signatures and 17 broad diagnostic groups with 98.0% accuracy, featuring a MedGemma 1.5 4B Vision-Language Model (VLM) for "Medical Peer-Review" and confirmed diagnosis.
 - **Stack**: Python, PyTorch, TensorFlow, FastAPI, React, Docker.
 
-### 2. [The Thinking Times](https://github.com/mingnatthakitt/DailyNewsSummary) (AI Automation)
+### 2. [Thailand & Greater Indochina Disaster Watch](https://github.com/mingnatthakitt/Thailand-Natural-Disasters-Alert) (Environmental AI & Automation)
+A real-time monitoring and multi-server alert pipeline tracking wildfires, earthquakes, and tropical cyclones across Thailand and Greater Indochina.
+- **Impact**: Feeds parallel NASA and USGS telemetry streams into a low-latency alert pipeline, automatically broadcasting regional hazard events within 15 minutes to an auto-managed network of multi-tenant Discord channels.
+- **Stack**: Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Leaflet.js, Upstash Redis, Vercel.
+
+### 3. [The Thinking Times](https://github.com/mingnatthakitt/DailyNewsSummary) (AI Automation)
 An automated intelligence engine that leverages **Gemini 3 Flash** to synthesize critical developments in AI and Global News.
 - **Impact**: Delivers curated briefings via a specialized Discord bot and a modern web interface.
 - **Stack**: Python, Discord.py, Gemini API, RSS.
 
-### 3. [Sinking Ships @ Strait](https://github.com/mingnatthakitt/Sinking-Ships-at-Strait) (Game Systems)
+### 4. [Sinking Ships @ Strait](https://github.com/mingnatthakitt/Sinking-Ships-at-Strait) (Game Systems)
 A tactical 1v1 strategy game engineered with a focus on advanced OOP principles and polymorphic class structures.
 - **Stack**: C++, OOP, Makefile.
 
-### 4. [Developer Portfolio](https://github.com/mingnatthakitt/Developer-Portfolio) (3D Experience)
+### 5. [Developer Portfolio](https://github.com/mingnatthakitt/Developer-Portfolio) (3D Experience)
 A premium, interactive technical profile featuring a physics-based 3D environment and fluid motion systems.
 - **Impact**: Custom Three.js "wormhole mesh" style hero page implementation with interactive particle physics.
 - **Stack**: React, Three.js, Framer Motion, Tailwind CSS.
