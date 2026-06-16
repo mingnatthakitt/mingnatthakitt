@@ -24,8 +24,8 @@ I am a Computer Science student at **The University of Hong Kong (HKU)**, curren
 ## 🛠️ Featured Technical Nodes
 
 ### 1. [Alpha Stratum](https://github.com/mingnatthakitt/AlphaStratum) (Quantitative Finance & AI)
-An AI-powered stock analytics engine and full-stack trading dashboard implementing advanced statistical forecasting and grounded financial RAG.
-- **Impact**: Executes regime-conditional Monte Carlo simulations, GARCH volatility forecasting, and Hidden Markov Models, paired with a `pgvector`-cached AI advisor generating real-time market insights with inline SEC EDGAR citations.
+An AI-powered stock analytics engine and full-stack trading dashboard implementing advanced statistical forecasting and data grounded financial AI advisor.
+- **Impact**: Executes regime-conditional Monte Carlo simulations, GARCH volatility forecasting, and Hidden Markov Models, paired with an AI advisor generating real-time market insights with inline SEC EDGAR citations, News, and other market data.
 - **Stack**: Python, FastAPI, Next.js 14, TypeScript, Supabase (PostgreSQL), `hmmlearn`, `arch`, Tailwind CSS.
 
 ### 2. [TumorVision](https://github.com/mingnatthakitt/TumorVision) (Medical AI)
@@ -34,7 +34,7 @@ A dual-architecture diagnostic platform utilizing **EfficientNetV2-S** for granu
 - **Stack**: Python, PyTorch, TensorFlow, FastAPI, React, Docker.
 
 ### 3. [ScratchLM](https://github.com/mingnatthakitt/ScratchLM) (AI Education)
-A privacy-first, zero-database AI study assistant that converts local PDF documents into structured 4-zone study guides and interactive RAG chat sessions.
+A privacy-first, zero-database AI study assistant that converts local PDF documents into structured 4-zone study guides and interactive context-based chat sessions.
 - **Impact**: Processes multiple PDFs fully within the browser to generate exportable Markdown cheatsheets (Deep-Dives, Analogies, Solved Problems, and Exam Traps) and provides isolated, step-by-step AI tutoring with zero data retention.
 - **Stack**: Python, FastAPI, Gemma 4 31B IT, pypdf, Docker, Vanilla JS.
 
