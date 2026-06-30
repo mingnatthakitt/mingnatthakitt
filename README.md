@@ -1,5 +1,5 @@
 # 🚀 Natthakitt Prapunwattana
-### HKU Computer Science | Aspiring AI & Medical Vision Engineer
+### HKU Computer Science | Aspiring AI & Computer Vision Engineer
 
 <div align="center">
   <a href="https://mingnatthakitt.vercel.app/">
@@ -14,14 +14,14 @@
 ---
 
 ## 🧬 Background
-I am a Computer Science student at **The University of Hong Kong (HKU)**, currently working at the **Innovation Wing**. My work focuses on bridging the gap between deep learning research and production-ready systems, with a particular emphasis on **Medical AI** and **Computer Vision**.
+I am a Computer Science student at **The University of Hong Kong (HKU)**. My work focuses on bridging the gap between deep learning research and production-ready systems, with a particular emphasis on **Medical AI**, **Computer Vision**, and **Machine Learning**.
 
 - 🔭 **Current Focus**: Engineering AI-powered diagnostic tools for healthcare.
-- 🎓 **Education**: BEng in Computer Science @ HKU (Year 1).
+- 🎓 **Education**: BEng in Computer Science @ HKU (Year 2).
 
 ---
 
-## 🛠️ Featured Technical Nodes
+## 🛠️ Featured Technical Projects
 
 ### 1. [Alpha Stratum](https://github.com/mingnatthakitt/AlphaStratum) (Quantitative Finance & AI)
 An AI-powered stock analytics engine and full-stack trading dashboard implementing advanced statistical forecasting and data grounded financial AI advisor.
